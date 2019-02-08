@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
-export default App;
+export { App as Checkout };
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
