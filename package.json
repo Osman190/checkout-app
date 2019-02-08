@@ -1,7 +1,7 @@
 {
   "name": "checkout-app",
   "version": "0.1.0",
-  "main": "build/static/js/main.71af173b.chunk.js",
+  "main": "build",
   "private": false,
   "dependencies": {
     "react": "^16.8.1",
