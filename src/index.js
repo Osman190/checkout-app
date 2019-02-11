@@ -2,12 +2,10 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-import * as serviceWorker from "./serviceWorker";
+// import * as serviceWorker from "./serviceWorker";
 
-export default Checkout => {
-  return App;
-};
+export class App
 
 // ReactDOM.render(<App />, document.getElementById("root"));
 
-serviceWorker.unregister();
+// serviceWorker.unregister();
