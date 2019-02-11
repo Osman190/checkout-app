@@ -1,7 +1,7 @@
 {
   "name": "checkout-app",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "private": false,
   "dependencies": {
     "react": "^16.8.1",
