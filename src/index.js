@@ -6,6 +6,6 @@ import * as serviceWorker from "./serviceWorker";
 
 export { App as Checkout };
 
-ReactDOM.render(<App />, document.getElementById("root"));
+// ReactDOM.render(<App />, document.getElementById("root"));
 
 serviceWorker.unregister();
